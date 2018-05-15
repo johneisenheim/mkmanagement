@@ -21,7 +21,7 @@
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
-        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/redbox_view.xml"
+        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -73,7 +73,7 @@
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
-        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/fps_view.xml"
+        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
@@ -81,7 +81,7 @@
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
-        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/redbox_item_title.xml"
+        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -105,7 +105,7 @@
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
-        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/dev_loading_view.xml"
+        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
-        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/redbox_item_frame.xml"
+        "source": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/johneisenheim/mkmanagement/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",

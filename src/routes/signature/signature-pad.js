@@ -15,7 +15,25 @@ const screen = Dimensions.get('window');
 export default class SignaturePad extends Component {
     constructor(props) {
         super(props);
+        this.onSaveEvent = this.onSaveEvent.bind(this);
     }
+
+    reset(){
+        this.signature.resetImage();
+    }
+
+    save(){
+        this.signature.saveImage();
+    }
+
+    onSaveEvent(result){
+        this.props.imageSaved(result);
+    }
+
+    getResults(){
+        return this.result;
+    }
+
     render() {
         return (
             <SignatureCapture
@@ -25,6 +43,8 @@ export default class SignaturePad extends Component {
                 saveImageFileInExtStorage={false}
                 showNativeButtons={false}
                 showTitleLabel={false}
+                onSaveEvent={this.onSaveEvent}
+                ref={ signature => this.signature = signature}
             />
         )
     }

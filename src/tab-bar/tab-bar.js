@@ -10,6 +10,7 @@ import {
 import { material } from 'react-native-typography';
 import { TabViewAnimated, TabBar, SceneMap } from 'react-native-tab-view';
 import Signature from '../routes/signature/signature';
+import Orientation from 'react-native-orientation';
 
 const initialLayout = {
     height: 0,
@@ -36,6 +37,10 @@ export default class KTabBar extends PureComponent {
             resizeMode='contain'
         />
     </View>
+
+    componentWillMount(){
+        Orientation.lockToPortrait();
+    }
 
     _renderScene = SceneMap({
         signature: Signature,

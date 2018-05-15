@@ -2349,6 +2349,7 @@ containing a value of this type.
         public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f09013f;
         public static final int Widget_AppCompat_Toolbar=0x7f090140;
         public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f090141;
+        public static final int redboxButton=0x7f090142;
     }
     public static final class xml {
         public static final int preferences=0x7f060000;
